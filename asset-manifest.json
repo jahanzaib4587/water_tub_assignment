@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/water_tub_assignment/static/css/main.35a98848.chunk.css",
-    "main.js": "/water_tub_assignment/static/js/main.400af9b3.chunk.js",
-    "main.js.map": "/water_tub_assignment/static/js/main.400af9b3.chunk.js.map",
-    "runtime-main.js": "/water_tub_assignment/static/js/runtime-main.f5a46af4.js",
-    "runtime-main.js.map": "/water_tub_assignment/static/js/runtime-main.f5a46af4.js.map",
-    "static/js/2.401a93ec.chunk.js": "/water_tub_assignment/static/js/2.401a93ec.chunk.js",
-    "static/js/2.401a93ec.chunk.js.map": "/water_tub_assignment/static/js/2.401a93ec.chunk.js.map",
-    "static/js/3.0f962a20.chunk.js": "/water_tub_assignment/static/js/3.0f962a20.chunk.js",
-    "static/js/3.0f962a20.chunk.js.map": "/water_tub_assignment/static/js/3.0f962a20.chunk.js.map",
-    "index.html": "/water_tub_assignment/index.html",
-    "static/css/main.35a98848.chunk.css.map": "/water_tub_assignment/static/css/main.35a98848.chunk.css.map",
-    "static/js/2.401a93ec.chunk.js.LICENSE.txt": "/water_tub_assignment/static/js/2.401a93ec.chunk.js.LICENSE.txt"
+    "main.css": "/yourrepositoryname/static/css/main.72d32652.chunk.css",
+    "main.js": "/yourrepositoryname/static/js/main.41b7acbd.chunk.js",
+    "main.js.map": "/yourrepositoryname/static/js/main.41b7acbd.chunk.js.map",
+    "runtime-main.js": "/yourrepositoryname/static/js/runtime-main.25e04a57.js",
+    "runtime-main.js.map": "/yourrepositoryname/static/js/runtime-main.25e04a57.js.map",
+    "static/js/2.401a93ec.chunk.js": "/yourrepositoryname/static/js/2.401a93ec.chunk.js",
+    "static/js/2.401a93ec.chunk.js.map": "/yourrepositoryname/static/js/2.401a93ec.chunk.js.map",
+    "static/js/3.0f962a20.chunk.js": "/yourrepositoryname/static/js/3.0f962a20.chunk.js",
+    "static/js/3.0f962a20.chunk.js.map": "/yourrepositoryname/static/js/3.0f962a20.chunk.js.map",
+    "index.html": "/yourrepositoryname/index.html",
+    "static/css/main.72d32652.chunk.css.map": "/yourrepositoryname/static/css/main.72d32652.chunk.css.map",
+    "static/js/2.401a93ec.chunk.js.LICENSE.txt": "/yourrepositoryname/static/js/2.401a93ec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5a46af4.js",
+    "static/js/runtime-main.25e04a57.js",
     "static/js/2.401a93ec.chunk.js",
-    "static/css/main.35a98848.chunk.css",
-    "static/js/main.400af9b3.chunk.js"
+    "static/css/main.72d32652.chunk.css",
+    "static/js/main.41b7acbd.chunk.js"
   ]
 }
