@@ -11,7 +11,7 @@ function App() {
       for (let i = 1; i <= 5; i++) {
         setTimeout(() => {
           setComponentArray((oldArray) => [...oldArray, <WaterChild />]);
-        }, i * 1000);
+        }, i * 2000);
       }
     }
     setIsDisabledFillBtn(true);
@@ -23,7 +23,7 @@ function App() {
         setTimeout(() => {
           let lengthOfArray = tempArray.length - i;
           setComponentArray(tempArray.slice(0, lengthOfArray));
-        }, i * 1000);
+        }, i * 2000);
       }
       setIsDisabledRemoveBtn(true);
     }
