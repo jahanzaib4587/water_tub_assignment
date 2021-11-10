@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/water_tub_assignment/static/css/main.72d32652.chunk.css",
+    "main.css": "/water_tub_assignment/static/css/main.8d8e99ce.chunk.css",
     "main.js": "/water_tub_assignment/static/js/main.41b7acbd.chunk.js",
     "main.js.map": "/water_tub_assignment/static/js/main.41b7acbd.chunk.js.map",
     "runtime-main.js": "/water_tub_assignment/static/js/runtime-main.f5a46af4.js",
@@ -10,13 +10,13 @@
     "static/js/3.0f962a20.chunk.js": "/water_tub_assignment/static/js/3.0f962a20.chunk.js",
     "static/js/3.0f962a20.chunk.js.map": "/water_tub_assignment/static/js/3.0f962a20.chunk.js.map",
     "index.html": "/water_tub_assignment/index.html",
-    "static/css/main.72d32652.chunk.css.map": "/water_tub_assignment/static/css/main.72d32652.chunk.css.map",
+    "static/css/main.8d8e99ce.chunk.css.map": "/water_tub_assignment/static/css/main.8d8e99ce.chunk.css.map",
     "static/js/2.401a93ec.chunk.js.LICENSE.txt": "/water_tub_assignment/static/js/2.401a93ec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5a46af4.js",
     "static/js/2.401a93ec.chunk.js",
-    "static/css/main.72d32652.chunk.css",
+    "static/css/main.8d8e99ce.chunk.css",
     "static/js/main.41b7acbd.chunk.js"
   ]
 }
